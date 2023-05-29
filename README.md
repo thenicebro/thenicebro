@@ -5,7 +5,7 @@
     </a>
     <a href="https://github.com/thenicebro">
         <img alt="github"
-            src="https://img.shields.io/github/stars/thenicebro?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
+            src="https://img.shields.io/github/stars/thenicebro?affiliations=OWNER&color=%23ffe411&label=stars&logo=github&logoColor=%23fffFF&style=flat" />
     </a>
      <a href="https://www.youtube.com/channel/UCpNpmGvHFIIEAGf-UOH5SXA">
        <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCpNpmGvHFIIEAGf-UOH5SXA">
