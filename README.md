@@ -43,7 +43,3 @@
   </a>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=thenicebro&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-### :sparkles: My Followers
-
-![Metrics](https://metrics.lecoq.io/thenicebro?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FShanghai)
