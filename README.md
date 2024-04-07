@@ -16,7 +16,7 @@
   <img src="https://weather-icon.journeyad.repl.co/@chengdu?v=1" align="right">
 </p>
 
-<h1 align="center">Hi 👋, I'm thenicebro</h1>
+<h1 align="center">Hi 👋, I'm ther0.ok1eboy</h1>
 <h3 align="center">An anonymous with a passion for Arch Linux</h3>
 
 <h3 align="left">Languages and Tools:</h3>
